@@ -1,0 +1,7 @@
+Apache Derby Network Server - 10.2.2.0 - (485682) started and ready to accept connections on port 1527 at 2022-10-22 06:24:46.021 GMT 
+----------------------------------------------------------------
+2022-10-22 06:41:39.896 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.2.2.0 - (485682): instance c013800d-0183-fe5d-8738-0000077ed6f0
+on database directory /Users/jessefalla/Desktop/Monash_Uni_Masters/Second_Year/Second_Semester/FIT5042/AssignmentMVC/JEE_Library/db-derby-10.2.2.0-bin/bin/fit5042  
+
+Database Class Loader started - derby.database.classpath=''
